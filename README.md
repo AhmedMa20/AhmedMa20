@@ -7,10 +7,22 @@
 ---
 
 ## 🚀 About Me
-🎓 SWE student at Zewail City of Science & Technology  
-💻 Web & App Developer  
-🧠 Passionate about problem solving & software development  
+
+🎓 Software Engineering student at Zewail City of Science & Technology  
+💻 Interested in Web, App Development, and Software Testing  
+🧠 Passionate about problem solving, clean code, and software design  
 🧪 Software Testing Trainee at DEPI  
+🚀 Always building, learning, and improving  
+
+---
+
+## 📫 Quick Contact
+
+<p align="left">
+  <a href="mailto:ahmed.hamada.20.1.2007.m@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 ## 🛠️ Tech Stack
@@ -47,12 +59,35 @@
 - 📚 [Data Structures Project](https://github.com/Newton-Salem/DataStructure-Project) Implementation of core data structures and algorithms with a focus on efficiency and problem-solving (C++, Data Structures, Algorithms).
 
 
+
+## 📁 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🧪 [Automated Testing Framework](https://github.com/Newton-Salem/Automated-Testing-Framework) | Reusable automation framework for improving test execution and reliability. | Python, Testing, OOP |
+| 🚗 [Speedy Rent](https://github.com/Elgazar2005/Speedy_rent) | Car rental management system for bookings, customers, and vehicle availability. | C++, OOP, File Handling |
+| 💊 [Pharmacy Database System](https://github.com/Newton-Salem/DB-PHARMACY) | Database system for pharmacy inventory, sales, and operations. | SQL, Database Design |
+| 🏗️ [Software Engineering Project](https://github.com/Newton-Salem/SWE-project) | Collaborative software engineering project using modular architecture. | C#, MVC, OOP |
+| 🌿 [VitaCode](https://github.com/habiba-18/vitacode) | UI-focused application with responsive design and smooth user experience. | Python |
+| 📚 [Data Structures Project](https://github.com/Newton-Salem/DataStructure-Project) | Implementations of core data structures and algorithms. | C++, DSA |
 ---
 
 ## 🔥 Current Focus
 - Building real-world projects 💻  
 - Improving problem solving 🧠  
 - Learning advanced software engineering concepts ⚙️  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMa20&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMa20&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
