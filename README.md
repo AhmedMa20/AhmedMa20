@@ -32,6 +32,22 @@
 </p>
 
 ---
+## 📁 Featured Projects
+
+- 🧪 [Automated Testing Framework](https://github.com/Newton-Salem/Automated-Testing-Framework) A robust automation framework that improves test execution and reliability using reusable components and structured test cases (Python, Testing Frameworks, Automation, OOP).
+
+- 🚗 [Speedy Rent](https://github.com/Elgazar2005/Speedy_rent) A car rental system for managing bookings, customers, and vehicle availability with efficient reservation workflows (C++, OOP, File Handling).
+
+- 💊 [Pharmacy Database System](https://github.com/Newton-Salem/DB-PHARMACY) A database-driven system for managing pharmacy inventory and operations with structured queries and reliable data handling (SQL, Database Design).
+
+- 🏗️ [Software Engineering Project](https://github.com/Newton-Salem/SWE-project) A collaborative system built using modular design and scalable architecture principles (C#, OOP, MVC, Software Design Principles).
+
+- 🌿 [VitaCode](https://github.com/habiba-18/vitacode) A modern UI-focused application emphasizing responsive design and smooth user experience (Python).
+
+- 📚 [Data Structures Project](https://github.com/Newton-Salem/DataStructure-Project) Implementation of core data structures and algorithms with a focus on efficiency and problem-solving (C++, Data Structures, Algorithms).
+
+
+---
 
 ## 🔥 Current Focus
 - Building real-world projects 💻  
