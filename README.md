@@ -23,6 +23,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
@@ -42,8 +43,8 @@
 
 ## 🌐 Connect with Me
 - GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: (add your link)  
-- Email: (optional)
+- LinkedIn: www.linkedin.com/in/ahmed-mahmoud111
+- Email: ahmed.hamada.20.1.2007.m@gmail.com
 
 ---
 
