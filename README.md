@@ -69,8 +69,9 @@
  ## 📊 GitHub Stats
 
 <div align="center">
-
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedMa20&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 
 </div>
 
