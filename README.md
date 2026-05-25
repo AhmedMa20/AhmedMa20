@@ -46,17 +46,17 @@
 ---
 ## 📁 Featured Projects
 
-- 🧪 [Automated Testing Framework](https://github.com/Newton-Salem/Automated-Testing-Framework) A robust automation framework that improves test execution and reliability using reusable components and structured test cases.
+- 🧪 [Automated Testing Framework](https://github.com/Newton-Salem/Automated-Testing-Framework) A comprehensive QA automation framework covering UI, API, performance, and database testing with CI/CD integration using Java, Selenium, TestNG, Postman, JMeter, Maven, Jenkins, and MySQL.
 
-- 🚗 [Speedy Rent](https://github.com/Elgazar2005/Speedy_rent) A car rental system for managing bookings, customers, and vehicle availability with efficient reservation workflows (C++, OOP, File Handling).
+- 🚗 [Speedy Rent](https://github.com/Elgazar2005/Speedy_rent) A C++-based car rental management system handling bookings, customers, and payments using OOP principles, file handling, and modular design.
 
-- 💊 [Pharmacy Database System](https://github.com/Newton-Salem/DB-PHARMACY) A database-driven system for managing pharmacy inventory and operations with structured queries and reliable data handling (SQL, Database Design).
+- 💊 [Pharmacy Database System](https://github.com/Newton-Salem/DB-PHARMACY) A full-stack pharmacy management system with authentication, role-based access, and inventory management built using C#, HTML, CSS, SQL, and MVC architecture.
 
-- 🏗️ [Software Engineering Project](https://github.com/Newton-Salem/SWE-project) A collaborative system built using modular design and scalable architecture principles (C#, OOP, MVC, Software Design Principles).
+- 🏗️ [EduTrack - SWE Project](https://github.com/Newton-Salem/SWE-project) A web application that improves student–teacher interaction with lectures, grading, and chat features using Python, Flask, HTML, CSS, MVC, and repository pattern.
 
-- 🌿 [VitaCode](https://github.com/habiba-18/vitacode) A modern UI-focused application emphasizing responsive design and smooth user experience (Python).
+- 🌿 [VitaCode](https://github.com/habiba-18/vitacode) A desktop application for medication management and reminders with modern UI, voice notifications, and pharmacy store features built using Python, CustomTkinter, and CSV.
 
-- 📚 [Data Structures Project](https://github.com/Newton-Salem/DataStructure-Project) Implementation of core data structures and algorithms with a focus on efficiency and problem-solving (C++, Data Structures, Algorithms).
+- 🚦 [Smart Traffic Management System](https://github.com/Newton-Salem/DataStructure-Project) A traffic simulation system using custom data structures and event-driven architecture to manage prioritization and dynamic events built with C++, OOP, and algorithms.
 
 ---
 ## 🔥 Current Focus
