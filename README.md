@@ -46,7 +46,7 @@
 ---
 ## 📁 Featured Projects
 
-- 🧪 [Automated Testing Framework](https://github.com/Newton-Salem/Automated-Testing-Framework) A robust automation framework that improves test execution and reliability using reusable components and structured test cases (Python, Testing Frameworks, Automation, OOP).
+- 🧪 [Automated Testing Framework](https://github.com/Newton-Salem/Automated-Testing-Framework) A robust automation framework that improves test execution and reliability using reusable components and structured test cases.
 
 - 🚗 [Speedy Rent](https://github.com/Elgazar2005/Speedy_rent) A car rental system for managing bookings, customers, and vehicle availability with efficient reservation workflows (C++, OOP, File Handling).
 
